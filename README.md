@@ -3,7 +3,7 @@
 
 <h3>Description</h3>
 <p>This project served as the final assessment for CS 330 Computer Graphics and Visualization where I modeled a kitchen table utilizing glut, freeglut, glm, and SOIL2 libraries. 
-  The project, which was completed over the course of the 8 week term, required textures and no more than 1000 triangles to be drawn, to keep the project manageable within the course time frame. 
+  The project, which was completed over the course of the 8 week term, required textures and no more than 1000 triangles to be drawn, to keep the project manageable within the course time frame. I learned a lot about the rendering pipeline and continued to develop my C++ programming skills.
 </p>
 
 <h3>Technologies</h3>
