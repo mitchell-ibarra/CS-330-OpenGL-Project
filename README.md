@@ -10,4 +10,6 @@
 <p>C++, OpenGL</p>
 
 <h3>Setup</h3>
-<p>To run this project, install it locally and you will need to add dependencies in your project properties for freeglut, glew, glm, and SOIL2.</p>
+<p>To run this project, install it locally and you will need to add dependencies in your project properties for freeglut, glew, glm, and SOIL2.
+   You can also change the image to be whatever you want, the image will set the texture for the table. 
+</p>
